@@ -8,17 +8,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1656-design-an-ordered-stream](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1656-design-an-ordered-stream) |
+| [2707-extra-characters-in-a-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2707-extra-characters-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1656-design-an-ordered-stream](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1656-design-an-ordered-stream) |
+| [2707-extra-characters-in-a-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2707-extra-characters-in-a-string) |
 | [3803-count-residue-prefixes](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3803-count-residue-prefixes) |
 ## String
 |  |
 | ------- |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1316-distinct-echo-substrings](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1316-distinct-echo-substrings) |
+| [2707-extra-characters-in-a-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2707-extra-characters-in-a-string) |
 | [3174-clear-digits](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3174-clear-digits) |
 | [3271-hash-divided-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3271-hash-divided-string) |
 | [3456-find-special-substring-of-length-k](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3456-find-special-substring-of-length-k) |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1316-distinct-echo-substrings](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1316-distinct-echo-substrings) |
+| [2707-extra-characters-in-a-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2707-extra-characters-in-a-string) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -74,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1316-distinct-echo-substrings](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1316-distinct-echo-substrings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2707-extra-characters-in-a-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2707-extra-characters-in-a-string) |
 <!---LeetCode Topics End-->
