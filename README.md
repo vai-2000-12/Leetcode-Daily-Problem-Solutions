@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3803-count-residue-prefixes](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3803-count-residue-prefixes) |
 | [3843-first-element-with-unique-frequency](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3843-first-element-with-unique-frequency) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3852-smallest-pair-with-different-frequencies) |
+| [3889-mirror-frequency-distance](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3889-mirror-frequency-distance) |
 ## String
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3456-find-special-substring-of-length-k](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3456-find-special-substring-of-length-k) |
 | [3803-count-residue-prefixes](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3803-count-residue-prefixes) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3889-mirror-frequency-distance](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3889-mirror-frequency-distance) |
 ## Binary Search
 |  |
 | ------- |
@@ -117,4 +119,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3843-first-element-with-unique-frequency](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3843-first-element-with-unique-frequency) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3852-smallest-pair-with-different-frequencies) |
+| [3889-mirror-frequency-distance](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3889-mirror-frequency-distance) |
 <!---LeetCode Topics End-->
