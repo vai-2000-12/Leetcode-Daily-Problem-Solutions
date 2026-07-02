@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0307-range-sum-query-mutable) |
+| [0598-range-addition-ii](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0598-range-addition-ii) |
 | [0941-valid-mountain-array](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0941-valid-mountain-array) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
@@ -173,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0307-range-sum-query-mutable) |
+## Math
+|  |
+| ------- |
+| [0598-range-addition-ii](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0598-range-addition-ii) |
 <!---LeetCode Topics End-->
