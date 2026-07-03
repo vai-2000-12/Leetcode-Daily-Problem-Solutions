@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0420-strong-password-checker](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0420-strong-password-checker) |
 | [0824-goat-latin](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0824-goat-latin) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1316-distinct-echo-substrings](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1316-distinct-echo-substrings) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0420-strong-password-checker](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0420-strong-password-checker) |
 ## Data Stream
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0420-strong-password-checker](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0420-strong-password-checker) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Enumeration
 |  |
