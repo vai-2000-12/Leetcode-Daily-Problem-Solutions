@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1638-count-substrings-that-differ-by-one-character](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1656-design-an-ordered-stream](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1656-design-an-ordered-stream) |
 | [1980-find-unique-binary-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1316-distinct-echo-substrings](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1316-distinct-echo-substrings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1638-count-substrings-that-differ-by-one-character](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [1980-find-unique-binary-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1638-count-substrings-that-differ-by-one-character](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [2707-extra-characters-in-a-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2707-extra-characters-in-a-string) |
 ## String Matching
 |  |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1638-count-substrings-that-differ-by-one-character](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Divide and Conquer
 |  |
