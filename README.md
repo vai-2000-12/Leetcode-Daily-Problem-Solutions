@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0824-goat-latin](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0824-goat-latin) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1316-distinct-echo-substrings](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1316-distinct-echo-substrings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
