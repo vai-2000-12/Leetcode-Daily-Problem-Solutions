@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0420-strong-password-checker](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0420-strong-password-checker) |
 | [0824-goat-latin](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0824-goat-latin) |
+| [0899-orderly-queue](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0899-orderly-queue) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1316-distinct-echo-substrings](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1316-distinct-echo-substrings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0899-orderly-queue](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0899-orderly-queue) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Two Pointers
@@ -195,4 +197,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0598-range-addition-ii](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0598-range-addition-ii) |
+| [0899-orderly-queue](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0899-orderly-queue) |
 <!---LeetCode Topics End-->
