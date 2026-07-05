@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0788-rotated-digits](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0788-rotated-digits) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [2707-extra-characters-in-a-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2707-extra-characters-in-a-string) |
 ## String Matching
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0598-range-addition-ii](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0598-range-addition-ii) |
 | [0728-self-dividing-numbers](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0728-self-dividing-numbers) |
+| [0788-rotated-digits](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0788-rotated-digits) |
 | [0899-orderly-queue](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0899-orderly-queue) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2729-check-if-the-number-is-fascinating) |
