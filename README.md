@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0420-strong-password-checker](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0420-strong-password-checker) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2600-k-items-with-the-maximum-sum) |
 ## Enumeration
 |  |
 | ------- |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0598-range-addition-ii) |
 | [0728-self-dividing-numbers](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0728-self-dividing-numbers) |
 | [0899-orderly-queue](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0899-orderly-queue) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2600-k-items-with-the-maximum-sum) |
 ## Depth-First Search
 |  |
 | ------- |
