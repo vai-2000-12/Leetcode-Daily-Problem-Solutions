@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0899-orderly-queue](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0899-orderly-queue) |
 | [1352-product-of-the-last-k-numbers](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2544-alternating-digit-sum](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2544-alternating-digit-sum) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3270-find-the-key-of-the-numbers](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3270-find-the-key-of-the-numbers) |
