@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0899-orderly-queue](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0899-orderly-queue) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [3536-maximum-product-of-two-digits](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2729-check-if-the-number-is-fascinating](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3270-find-the-key-of-the-numbers](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3270-find-the-key-of-the-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Depth-First Search
 |  |
