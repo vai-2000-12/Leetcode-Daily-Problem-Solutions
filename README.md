@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3636-threshold-majority-queries](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3636-threshold-majority-queries) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3678-smallest-absent-positive-greater-than-average](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3843-first-element-with-unique-frequency](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3843-first-element-with-unique-frequency) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3852-smallest-pair-with-different-frequencies) |
 ## Hash Table
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2729-check-if-the-number-is-fascinating](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2831-find-the-longest-equal-subarray](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2831-find-the-longest-equal-subarray) |
 | [3636-threshold-majority-queries](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3636-threshold-majority-queries) |
+| [3678-smallest-absent-positive-greater-than-average](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3692-majority-frequency-characters](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3692-majority-frequency-characters) |
 | [3803-count-residue-prefixes](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3803-count-residue-prefixes) |
 | [3843-first-element-with-unique-frequency](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3843-first-element-with-unique-frequency) |
