@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-positions-of-large-groups](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0830-positions-of-large-groups) |
 | [0899-orderly-queue](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0899-orderly-queue) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
+| [1208-get-equal-substrings-within-budget](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1316-distinct-echo-substrings](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1316-distinct-echo-substrings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1638-count-substrings-that-differ-by-one-character) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
+| [1208-get-equal-substrings-within-budget](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [2831-find-the-longest-equal-subarray](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2831-find-the-longest-equal-subarray) |
 | [3636-threshold-majority-queries](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3636-threshold-majority-queries) |
 ## Sorting
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1208-get-equal-substrings-within-budget](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [2831-find-the-longest-equal-subarray](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2831-find-the-longest-equal-subarray) |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [1208-get-equal-substrings-within-budget](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1352-product-of-the-last-k-numbers](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [3636-threshold-majority-queries](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3636-threshold-majority-queries) |
