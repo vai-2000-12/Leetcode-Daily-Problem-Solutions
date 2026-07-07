@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [1352-product-of-the-last-k-numbers](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+| [1603-design-parking-system](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1603-design-parking-system) |
 | [1656-design-an-ordered-stream](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1656-design-an-ordered-stream) |
 | [1797-design-authentication-manager](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1797-design-authentication-manager) |
 | [3242-design-neighbor-sum-service](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3242-design-neighbor-sum-service) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1603-design-parking-system](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1603-design-parking-system) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3174-clear-digits](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3174-clear-digits) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1603-design-parking-system](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1603-design-parking-system) |
 | [3527-find-the-most-common-response](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3527-find-the-most-common-response) |
 | [3636-threshold-majority-queries](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3636-threshold-majority-queries) |
 | [3692-majority-frequency-characters](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3692-majority-frequency-characters) |
