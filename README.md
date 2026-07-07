@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1656-design-an-ordered-stream](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1656-design-an-ordered-stream) |
 | [1695-maximum-erasure-value](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1695-maximum-erasure-value) |
+| [1797-design-authentication-manager](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1797-design-authentication-manager) |
 | [1980-find-unique-binary-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [1352-product-of-the-last-k-numbers](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1656-design-an-ordered-stream](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1656-design-an-ordered-stream) |
+| [1797-design-authentication-manager](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1797-design-authentication-manager) |
 | [3242-design-neighbor-sum-service](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3242-design-neighbor-sum-service) |
 ## Heap (Priority Queue)
 |  |
@@ -270,4 +272,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3242-design-neighbor-sum-service](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3242-design-neighbor-sum-service) |
+## Linked List
+|  |
+| ------- |
+| [1797-design-authentication-manager](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1797-design-authentication-manager) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1797-design-authentication-manager](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1797-design-authentication-manager) |
 <!---LeetCode Topics End-->
