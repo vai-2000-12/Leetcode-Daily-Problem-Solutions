@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-design-neighbor-sum-service](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3242-design-neighbor-sum-service) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3527-find-the-most-common-response](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3527-find-the-most-common-response) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3636-threshold-majority-queries](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3636-threshold-majority-queries) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-design-neighbor-sum-service](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3242-design-neighbor-sum-service) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3527-find-the-most-common-response](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3527-find-the-most-common-response) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3636-threshold-majority-queries](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3636-threshold-majority-queries) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3692-majority-frequency-characters](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3692-majority-frequency-characters) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1208-get-equal-substrings-within-budget](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [2831-find-the-longest-equal-subarray](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2831-find-the-longest-equal-subarray) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3636-threshold-majority-queries](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3636-threshold-majority-queries) |
 ## Sorting
 |  |
@@ -284,11 +287,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0997-find-the-town-judge) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
 | ------- |
