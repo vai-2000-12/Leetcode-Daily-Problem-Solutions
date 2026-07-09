@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3843-first-element-with-unique-frequency](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3843-first-element-with-unique-frequency) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3692-majority-frequency-characters](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3692-majority-frequency-characters) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3803-count-residue-prefixes](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3803-count-residue-prefixes) |
 | [3843-first-element-with-unique-frequency](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3843-first-element-with-unique-frequency) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3852-smallest-pair-with-different-frequencies) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2831-find-the-longest-equal-subarray](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2831-find-the-longest-equal-subarray) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Counting
 |  |
