@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3340-check-balanced-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3340-check-balanced-string) |
 | [3407-substring-matching-pattern](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3407-substring-matching-pattern) |
 | [3456-find-special-substring-of-length-k](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3456-find-special-substring-of-length-k) |
+| [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3527-find-the-most-common-response](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3527-find-the-most-common-response) |
 | [3692-majority-frequency-characters](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3692-majority-frequency-characters) |
 | [3707-equal-score-substrings](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3707-equal-score-substrings) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [2972-count-the-number-of-incremovable-subarrays-ii](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2972-count-the-number-of-incremovable-subarrays-ii) |
+| [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Design
 |  |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0788-rotated-digits) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [2707-extra-characters-in-a-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2707-extra-characters-in-a-string) |
+| [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 ## String Matching
 |  |
 | ------- |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Divide and Conquer
 |  |
