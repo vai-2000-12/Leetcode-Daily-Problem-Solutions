@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1352-product-of-the-last-k-numbers](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+| [1408-string-matching-in-an-array](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1408-string-matching-in-an-array) |
 | [1656-design-an-ordered-stream](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1656-design-an-ordered-stream) |
 | [1695-maximum-erasure-value](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1695-maximum-erasure-value) |
 | [1980-find-unique-binary-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1980-find-unique-binary-string) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1208-get-equal-substrings-within-budget](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1316-distinct-echo-substrings](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1316-distinct-echo-substrings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1408-string-matching-in-an-array](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1408-string-matching-in-an-array) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1957-delete-characters-to-make-fancy-string) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [1408-string-matching-in-an-array](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1408-string-matching-in-an-array) |
 | [3407-substring-matching-pattern](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3407-substring-matching-pattern) |
 ## Backtracking
 |  |
