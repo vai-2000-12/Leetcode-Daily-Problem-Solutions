@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [0997-find-the-town-judge](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0997-find-the-town-judge) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2685-count-the-number-of-complete-components) |
