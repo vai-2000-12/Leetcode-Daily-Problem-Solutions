@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0997-find-the-town-judge) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+| [1310-xor-queries-of-a-subarray](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1352-product-of-the-last-k-numbers](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1408-string-matching-in-an-array](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1408-string-matching-in-an-array) |
 | [1656-design-an-ordered-stream](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1656-design-an-ordered-stream) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
+| [1310-xor-queries-of-a-subarray](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2401-longest-nice-subarray](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2401-longest-nice-subarray) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [1208-get-equal-substrings-within-budget](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
+| [1310-xor-queries-of-a-subarray](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1352-product-of-the-last-k-numbers](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [3636-threshold-majority-queries](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3636-threshold-majority-queries) |
