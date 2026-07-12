@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2401-longest-nice-subarray](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2401-longest-nice-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2553-separate-the-digits-in-an-array](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2707-extra-characters-in-a-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2707-extra-characters-in-a-string) |
 | [2831-find-the-longest-equal-subarray](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2831-find-the-longest-equal-subarray) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-design-parking-system](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1603-design-parking-system) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2553-separate-the-digits-in-an-array](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3174-clear-digits](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3174-clear-digits) |
 | [3242-design-neighbor-sum-service](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3242-design-neighbor-sum-service) |
 | [3271-hash-divided-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3271-hash-divided-string) |
