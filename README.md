@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2065-maximum-path-quality-of-a-graph](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2401-longest-nice-subarray](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2401-longest-nice-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2707-extra-characters-in-a-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2707-extra-characters-in-a-string) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2401-longest-nice-subarray](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2401-longest-nice-subarray) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 ## Sliding Window
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1695-maximum-erasure-value](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1695-maximum-erasure-value) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1839-longest-substring-of-all-vowels-in-order) |
+| [2401-longest-nice-subarray](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2401-longest-nice-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2831-find-the-longest-equal-subarray](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2831-find-the-longest-equal-subarray) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
