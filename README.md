@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1291-sequential-digits) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2843-count-symmetric-integers](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2843-count-symmetric-integers) |
