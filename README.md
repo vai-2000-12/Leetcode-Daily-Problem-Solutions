@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3340-check-balanced-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3340-check-balanced-string) |
 | [3407-substring-matching-pattern](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3407-substring-matching-pattern) |
 | [3456-find-special-substring-of-length-k](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3456-find-special-substring-of-length-k) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3527-find-the-most-common-response](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3527-find-the-most-common-response) |
 | [3692-majority-frequency-characters](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3692-majority-frequency-characters) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-clear-digits](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3174-clear-digits) |
 | [3242-design-neighbor-sum-service](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3242-design-neighbor-sum-service) |
 | [3271-hash-divided-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3271-hash-divided-string) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3270-find-the-key-of-the-numbers](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3270-find-the-key-of-the-numbers) |
 | [3280-convert-date-to-binary](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3280-convert-date-to-binary) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -392,4 +395,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Combinatorics
+|  |
+| ------- |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+## Number Theory
+|  |
+| ------- |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
