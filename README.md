@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2600-k-items-with-the-maximum-sum) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Enumeration
 |  |
 | ------- |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3848-check-digitorial-permutation](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3848-check-digitorial-permutation) |
 ## Depth-First Search
