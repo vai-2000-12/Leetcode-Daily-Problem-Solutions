@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3242-design-neighbor-sum-service](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3242-design-neighbor-sum-service) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3493-properties-graph](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3493-properties-graph) |
 | [3527-find-the-most-common-response](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3527-find-the-most-common-response) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2729-check-if-the-number-is-fascinating](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2831-find-the-longest-equal-subarray](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2831-find-the-longest-equal-subarray) |
 | [3242-design-neighbor-sum-service](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3242-design-neighbor-sum-service) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3493-properties-graph](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3493-properties-graph) |
 | [3527-find-the-most-common-response](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3527-find-the-most-common-response) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2843-count-symmetric-integers](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2843-count-symmetric-integers) |
 | [3270-find-the-key-of-the-numbers](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3270-find-the-key-of-the-numbers) |
 | [3280-convert-date-to-binary](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3280-convert-date-to-binary) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3536-maximum-product-of-two-digits) |
