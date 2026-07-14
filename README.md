@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3527-find-the-most-common-response](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3527-find-the-most-common-response) |
 | [3692-majority-frequency-characters](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3692-majority-frequency-characters) |
 | [3707-equal-score-substrings](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3707-equal-score-substrings) |
+| [3798-largest-even-number](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3798-largest-even-number) |
 | [3803-count-residue-prefixes](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3803-count-residue-prefixes) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3889-mirror-frequency-distance](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3889-mirror-frequency-distance) |
