@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1630-arithmetic-subarrays](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1630-arithmetic-subarrays) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [3536-maximum-product-of-two-digits](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0420-strong-password-checker](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0420-strong-password-checker) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2600-k-items-with-the-maximum-sum) |
 ## Enumeration
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0899-orderly-queue](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0899-orderly-queue) |
 | [1352-product-of-the-last-k-numbers](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2544-alternating-digit-sum](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2544-alternating-digit-sum) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2729-check-if-the-number-is-fascinating) |
