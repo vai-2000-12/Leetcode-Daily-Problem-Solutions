@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3692-majority-frequency-characters](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3692-majority-frequency-characters) |
 | [3707-equal-score-substrings](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3707-equal-score-substrings) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3798-largest-even-number](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3798-largest-even-number) |
 | [3803-count-residue-prefixes](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3803-count-residue-prefixes) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2972-count-the-number-of-incremovable-subarrays-ii](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2972-count-the-number-of-incremovable-subarrays-ii) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Design
 |  |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Trie
