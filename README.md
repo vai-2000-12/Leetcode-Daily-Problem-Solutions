@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3271-hash-divided-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3271-hash-divided-string) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Trie
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3848-check-digitorial-permutation](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3848-check-digitorial-permutation) |
 ## Depth-First Search
