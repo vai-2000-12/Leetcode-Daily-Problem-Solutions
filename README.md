@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0788-rotated-digits](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0788-rotated-digits) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [1980-find-unique-binary-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2065-maximum-path-quality-of-a-graph) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0598-range-addition-ii](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0598-range-addition-ii) |
 | [0728-self-dividing-numbers](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0728-self-dividing-numbers) |
 | [0788-rotated-digits](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0788-rotated-digits) |
