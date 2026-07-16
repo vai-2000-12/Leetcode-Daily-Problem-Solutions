@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2707-extra-characters-in-a-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2707-extra-characters-in-a-string) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2831-find-the-longest-equal-subarray](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2831-find-the-longest-equal-subarray) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2972-count-the-number-of-incremovable-subarrays-ii](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2972-count-the-number-of-incremovable-subarrays-ii) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1208-get-equal-substrings-within-budget](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2831-find-the-longest-equal-subarray](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2831-find-the-longest-equal-subarray) |
 | [2972-count-the-number-of-incremovable-subarrays-ii](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2972-count-the-number-of-incremovable-subarrays-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Data Stream
 |  |
 | ------- |
@@ -365,12 +368,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2685-count-the-number-of-complete-components) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3493-properties-graph](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3493-properties-graph) |
 ## Union-Find
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2685-count-the-number-of-complete-components) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3493-properties-graph](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3493-properties-graph) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
@@ -387,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3242-design-neighbor-sum-service](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3242-design-neighbor-sum-service) |
 ## Linked List
 |  |
