@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
+| [3839-number-of-prefix-connected-groups](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3839-number-of-prefix-connected-groups) |
 | [3843-first-element-with-unique-frequency](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3843-first-element-with-unique-frequency) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3803-count-residue-prefixes](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3803-count-residue-prefixes) |
+| [3839-number-of-prefix-connected-groups](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3839-number-of-prefix-connected-groups) |
 | [3843-first-element-with-unique-frequency](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3843-first-element-with-unique-frequency) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3889-mirror-frequency-distance](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3889-mirror-frequency-distance) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3798-largest-even-number](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3798-largest-even-number) |
 | [3803-count-residue-prefixes](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3803-count-residue-prefixes) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3839-number-of-prefix-connected-groups](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3839-number-of-prefix-connected-groups) |
 | [3889-mirror-frequency-distance](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3889-mirror-frequency-distance) |
 ## Binary Search
 |  |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3527-find-the-most-common-response](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3527-find-the-most-common-response) |
 | [3636-threshold-majority-queries](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3636-threshold-majority-queries) |
 | [3692-majority-frequency-characters](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3692-majority-frequency-characters) |
+| [3839-number-of-prefix-connected-groups](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3839-number-of-prefix-connected-groups) |
 | [3843-first-element-with-unique-frequency](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3843-first-element-with-unique-frequency) |
 | [3848-check-digitorial-permutation](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3848-check-digitorial-permutation) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3852-smallest-pair-with-different-frequencies) |
