@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2401-longest-nice-subarray](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2401-longest-nice-subarray) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-separate-the-digits-in-an-array](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2559-count-vowel-strings-in-ranges) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2707-extra-characters-in-a-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2707-extra-characters-in-a-string) |
 | [3174-clear-digits](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3174-clear-digits) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1316-distinct-echo-substrings](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1316-distinct-echo-substrings) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2707-extra-characters-in-a-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2707-extra-characters-in-a-string) |
 ## Rolling Hash
 |  |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1603-design-parking-system](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1603-design-parking-system) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [3527-find-the-most-common-response](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3527-find-the-most-common-response) |
 | [3636-threshold-majority-queries](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3636-threshold-majority-queries) |
 | [3692-majority-frequency-characters](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3692-majority-frequency-characters) |
