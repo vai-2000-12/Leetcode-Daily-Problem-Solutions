@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0598-range-addition-ii](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0598-range-addition-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0941-valid-mountain-array](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0941-valid-mountain-array) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0899-orderly-queue](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0899-orderly-queue) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0598-range-addition-ii](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0598-range-addition-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0728-self-dividing-numbers) |
 | [0788-rotated-digits](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0788-rotated-digits) |
 | [0899-orderly-queue](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0899-orderly-queue) |
