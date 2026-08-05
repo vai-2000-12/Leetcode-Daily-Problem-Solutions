@@ -415,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-count-the-number-of-complete-components](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3310-remove-methods-from-project) |
 | [3493-properties-graph](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3493-properties-graph) |
+| [3528-unit-conversion-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3528-unit-conversion-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3310-remove-methods-from-project) |
 | [3493-properties-graph](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3493-properties-graph) |
+| [3528-unit-conversion-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3528-unit-conversion-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-count-the-number-of-complete-components](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3310-remove-methods-from-project) |
 | [3493-properties-graph](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3493-properties-graph) |
+| [3528-unit-conversion-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3528-unit-conversion-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
