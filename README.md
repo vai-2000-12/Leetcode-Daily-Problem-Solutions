@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-arithmetic-subarrays](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1630-arithmetic-subarrays) |
 | [1656-design-an-ordered-stream](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1656-design-an-ordered-stream) |
 | [1695-maximum-erasure-value](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1695-maximum-erasure-value) |
+| [1929-concatenation-of-array](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1603-design-parking-system](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1603-design-parking-system) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1929-concatenation-of-array](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1929-concatenation-of-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2553-separate-the-digits-in-an-array](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
