@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2707-extra-characters-in-a-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2707-extra-characters-in-a-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3174-clear-digits](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3174-clear-digits) |
 | [3271-hash-divided-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3271-hash-divided-string) |
 | [3280-convert-date-to-binary](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3280-convert-date-to-binary) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2401-longest-nice-subarray](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2401-longest-nice-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2831-find-the-longest-equal-subarray](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2831-find-the-longest-equal-subarray) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
