@@ -466,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1797-design-authentication-manager](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1797-design-authentication-manager) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## Doubly-Linked List
 |  |
