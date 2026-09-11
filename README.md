@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-positions-of-large-groups](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0830-positions-of-large-groups) |
 | [0899-orderly-queue](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0899-orderly-queue) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1147-longest-chunked-palindrome-decomposition](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1208-get-equal-substrings-within-budget](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1286-iterator-for-combination](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1286-iterator-for-combination) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0443-string-compression](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0443-string-compression) |
+| [1147-longest-chunked-palindrome-decomposition](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [2972-count-the-number-of-incremovable-subarrays-ii](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2972-count-the-number-of-incremovable-subarrays-ii) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
@@ -269,16 +271,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [1147-longest-chunked-palindrome-decomposition](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1316-distinct-echo-substrings](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1316-distinct-echo-substrings) |
 ## Hash Function
 |  |
 | ------- |
+| [1147-longest-chunked-palindrome-decomposition](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1316-distinct-echo-substrings](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1316-distinct-echo-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0788-rotated-digits](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0788-rotated-digits) |
+| [1147-longest-chunked-palindrome-decomposition](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2289-steps-to-make-array-non-decreasing) |
@@ -351,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0420-strong-password-checker](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0420-strong-password-checker) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1147-longest-chunked-palindrome-decomposition](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2600-k-items-with-the-maximum-sum) |
