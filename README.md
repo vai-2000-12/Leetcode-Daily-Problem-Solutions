@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0307-range-sum-query-mutable) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [3174-clear-digits](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3174-clear-digits) |
@@ -509,16 +511,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0655-print-binary-tree](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0655-print-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0655-print-binary-tree](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0655-print-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -562,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Iterator
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [1286-iterator-for-combination](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1286-iterator-for-combination) |
 ## Counting Sort
 |  |
