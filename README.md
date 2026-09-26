@@ -445,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0386-lexicographical-numbers) |
+| [0655-print-binary-tree](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0655-print-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3310-remove-methods-from-project) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0655-print-binary-tree](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0655-print-binary-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0655-print-binary-tree](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0655-print-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Search Tree
@@ -516,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0655-print-binary-tree](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0655-print-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Queue
