@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1316-distinct-echo-substrings](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1316-distinct-echo-substrings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1408-string-matching-in-an-array](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1408-string-matching-in-an-array) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1957-delete-characters-to-make-fancy-string) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [3174-clear-digits](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3174-clear-digits) |
 ## Simulation
@@ -574,4 +576,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
