@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-design-parking-system](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1603-design-parking-system) |
 | [1656-design-an-ordered-stream](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1656-design-an-ordered-stream) |
 | [1797-design-authentication-manager](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1797-design-authentication-manager) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [3242-design-neighbor-sum-service](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3242-design-neighbor-sum-service) |
 ## Heap (Priority Queue)
 |  |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Data Stream
 |  |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2685-count-the-number-of-complete-components](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3310-remove-methods-from-project) |
 | [3493-properties-graph](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3493-properties-graph) |
@@ -510,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Tree
 |  |
 | ------- |
