@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-separate-the-digits-in-an-array](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2559-count-vowel-strings-in-ranges) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2707-extra-characters-in-a-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2707-extra-characters-in-a-string) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2707-extra-characters-in-a-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2707-extra-characters-in-a-string) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2831-find-the-longest-equal-subarray](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2831-find-the-longest-equal-subarray) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2559-count-vowel-strings-in-ranges) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2707-extra-characters-in-a-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2707-extra-characters-in-a-string) |
 | [2730-find-the-longest-semi-repetitive-substring](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2730-find-the-longest-semi-repetitive-substring) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2289-steps-to-make-array-non-decreasing) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2707-extra-characters-in-a-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2707-extra-characters-in-a-string) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 ## String Matching
