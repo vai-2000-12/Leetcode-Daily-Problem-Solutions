@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
 ## Data Stream
 |  |
 | ------- |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3493-properties-graph](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3493-properties-graph) |
 | [3528-unit-conversion-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3528-unit-conversion-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
 ## Matrix
 |  |
 | ------- |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
+| [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
 ## Tree
 |  |
 | ------- |
