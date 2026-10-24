@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3940-limit-occurrences-in-sorted-array](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/4038-count-integers-appearing-in-a-single-block) |
 ## Hash Table
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3852-smallest-pair-with-different-frequencies](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3889-mirror-frequency-distance](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3889-mirror-frequency-distance) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/4038-count-integers-appearing-in-a-single-block) |
 ## String
 |  |
 | ------- |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3848-check-digitorial-permutation](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3848-check-digitorial-permutation) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3889-mirror-frequency-distance](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3889-mirror-frequency-distance) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/4038-count-integers-appearing-in-a-single-block) |
 ## Greedy
 |  |
 | ------- |
