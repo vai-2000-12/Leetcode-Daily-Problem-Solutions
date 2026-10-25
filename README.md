@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2065-maximum-path-quality-of-a-graph) |
+| [2090-k-radius-subarray-averages](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2261-k-divisible-elements-subarrays](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2261-k-divisible-elements-subarrays) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1695-maximum-erasure-value](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1695-maximum-erasure-value) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1839-longest-substring-of-all-vowels-in-order) |
+| [2090-k-radius-subarray-averages](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2401-longest-nice-subarray](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2401-longest-nice-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2730-find-the-longest-semi-repetitive-substring](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2730-find-the-longest-semi-repetitive-substring) |
