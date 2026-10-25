@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2016-maximum-difference-between-increasing-elements](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2090-k-radius-subarray-averages](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2090-k-radius-subarray-averages) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2261-k-divisible-elements-subarrays](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2261-k-divisible-elements-subarrays) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1695-maximum-erasure-value) |
 | [1797-design-authentication-manager](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1797-design-authentication-manager) |
 | [1980-find-unique-binary-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1980-find-unique-binary-string) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2261-k-divisible-elements-subarrays](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2261-k-divisible-elements-subarrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1254-number-of-closed-islands) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3242-design-neighbor-sum-service](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3242-design-neighbor-sum-service) |
 ## Linked List
