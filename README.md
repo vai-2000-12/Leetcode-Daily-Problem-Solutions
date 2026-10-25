@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0997-find-the-town-judge](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0997-find-the-town-judge) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
+| [1254-number-of-closed-islands](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1310-xor-queries-of-a-subarray](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1310-xor-queries-of-a-subarray) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0386-lexicographical-numbers) |
 | [0655-print-binary-tree](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0655-print-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3310-remove-methods-from-project) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0655-print-binary-tree](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0655-print-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1254-number-of-closed-islands) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -488,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -511,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1254-number-of-closed-islands) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3242-design-neighbor-sum-service](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3242-design-neighbor-sum-service) |
 ## Linked List
