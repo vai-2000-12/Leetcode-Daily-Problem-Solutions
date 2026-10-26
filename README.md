@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0229-majority-element-ii) |
 | [0303-range-sum-query-immutable](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0307-range-sum-query-mutable) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [1254-number-of-closed-islands](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1254-number-of-closed-islands) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
