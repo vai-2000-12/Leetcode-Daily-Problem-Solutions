@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2289-steps-to-make-array-non-decreasing](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2401-longest-nice-subarray](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2401-longest-nice-subarray) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2416-sum-of-prefix-scores-of-strings) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-separate-the-digits-in-an-array](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2559-count-vowel-strings-in-ranges) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2416-sum-of-prefix-scores-of-strings) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2707-extra-characters-in-a-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2707-extra-characters-in-a-string) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1316-distinct-echo-substrings](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1316-distinct-echo-substrings) |
 | [2261-k-divisible-elements-subarrays](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2261-k-divisible-elements-subarrays) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2416-sum-of-prefix-scores-of-strings) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2707-extra-characters-in-a-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2707-extra-characters-in-a-string) |
 ## Rolling Hash
 |  |
