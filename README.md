@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0598-range-addition-ii](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0648-replace-words](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0648-replace-words) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0941-valid-mountain-array](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0941-valid-mountain-array) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0648-replace-words](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0648-replace-words) |
 | [0997-find-the-town-judge](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0997-find-the-town-judge) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0420-strong-password-checker](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0420-strong-password-checker) |
 | [0443-string-compression](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0443-string-compression) |
+| [0648-replace-words](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0648-replace-words) |
 | [0824-goat-latin](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0824-goat-latin) |
 | [0830-positions-of-large-groups](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0830-positions-of-large-groups) |
 | [0899-orderly-queue](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0899-orderly-queue) |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0386-lexicographical-numbers) |
+| [0648-replace-words](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0648-replace-words) |
 | [1316-distinct-echo-substrings](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1316-distinct-echo-substrings) |
 | [2261-k-divisible-elements-subarrays](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2261-k-divisible-elements-subarrays) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2416-sum-of-prefix-scores-of-strings) |
