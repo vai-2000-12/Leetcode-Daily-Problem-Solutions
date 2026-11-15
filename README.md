@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0420-strong-password-checker](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0420-strong-password-checker) |
 | [0443-string-compression](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0443-string-compression) |
+| [0551-student-attendance-record-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0551-student-attendance-record-i) |
 | [0648-replace-words](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0648-replace-words) |
 | [0824-goat-latin](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0824-goat-latin) |
 | [0830-positions-of-large-groups](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0830-positions-of-large-groups) |
