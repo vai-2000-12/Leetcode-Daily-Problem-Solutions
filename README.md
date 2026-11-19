@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0027-remove-element) |
 | [0073-set-matrix-zeroes](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0229-majority-element-ii) |
 | [0303-range-sum-query-immutable](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0303-range-sum-query-immutable) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0027-remove-element) |
 | [0295-find-median-from-data-stream](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0443-string-compression](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0443-string-compression) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1147-longest-chunked-palindrome-decomposition) |
