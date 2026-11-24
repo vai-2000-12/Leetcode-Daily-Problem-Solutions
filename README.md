@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0648-replace-words](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0648-replace-words) |
+| [0809-expressive-words](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0809-expressive-words) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0941-valid-mountain-array](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0941-valid-mountain-array) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0443-string-compression) |
 | [0551-student-attendance-record-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0551-student-attendance-record-i) |
 | [0648-replace-words](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0648-replace-words) |
+| [0809-expressive-words](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0809-expressive-words) |
 | [0824-goat-latin](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0824-goat-latin) |
 | [0830-positions-of-large-groups](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0830-positions-of-large-groups) |
 | [0899-orderly-queue](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0899-orderly-queue) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0027-remove-element) |
 | [0295-find-median-from-data-stream](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0443-string-compression](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0443-string-compression) |
+| [0809-expressive-words](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0809-expressive-words) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [2972-count-the-number-of-incremovable-subarrays-ii](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2972-count-the-number-of-incremovable-subarrays-ii) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
