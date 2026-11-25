@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1208-get-equal-substrings-within-budget](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0027-remove-element) |
 | [0295-find-median-from-data-stream](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0443-string-compression](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0443-string-compression) |
+| [0633-sum-of-square-numbers](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0809-expressive-words](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0809-expressive-words) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [2972-count-the-number-of-incremovable-subarrays-ii](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2972-count-the-number-of-incremovable-subarrays-ii) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0598-range-addition-ii](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0728-self-dividing-numbers) |
 | [0788-rotated-digits](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0788-rotated-digits) |
 | [0899-orderly-queue](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0899-orderly-queue) |
