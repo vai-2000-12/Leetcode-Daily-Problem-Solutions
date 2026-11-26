@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/4038-count-integers-appearing-in-a-single-block) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3889-mirror-frequency-distance](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3889-mirror-frequency-distance) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/4038-count-integers-appearing-in-a-single-block) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## String
 |  |
 | ------- |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Data Stream
 |  |
 | ------- |
@@ -310,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3925-concatenate-array-with-reverse) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Trie
 |  |
 | ------- |
@@ -410,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3852-smallest-pair-with-different-frequencies](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3889-mirror-frequency-distance](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3889-mirror-frequency-distance) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/4038-count-integers-appearing-in-a-single-block) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Greedy
 |  |
 | ------- |
@@ -657,4 +663,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Ordered Set
+|  |
+| ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 <!---LeetCode Topics End-->
