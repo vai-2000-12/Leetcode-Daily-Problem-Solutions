@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0027-remove-element) |
 | [0073-set-matrix-zeroes](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0229-majority-element-ii) |
+| [0284-peeking-iterator](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0284-peeking-iterator) |
 | [0303-range-sum-query-immutable](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0284-peeking-iterator](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0284-peeking-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0307-range-sum-query-mutable) |
@@ -644,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0284-peeking-iterator](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0284-peeking-iterator) |
 | [1286-iterator-for-combination](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1286-iterator-for-combination) |
 ## Counting Sort
 |  |
