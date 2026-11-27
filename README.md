@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2261-k-divisible-elements-subarrays](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2261-k-divisible-elements-subarrays) |
+| [2336-smallest-number-in-infinite-set](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2707-extra-characters-in-a-string](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2707-extra-characters-in-a-string) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-design-parking-system](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1603-design-parking-system) |
 | [1656-design-an-ordered-stream](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1656-design-an-ordered-stream) |
 | [1797-design-authentication-manager](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1797-design-authentication-manager) |
+| [2336-smallest-number-in-infinite-set](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [3242-design-neighbor-sum-service](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3242-design-neighbor-sum-service) |
 ## Heap (Priority Queue)
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
+| [2336-smallest-number-in-infinite-set](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
@@ -666,5 +669,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 <!---LeetCode Topics End-->
