@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0648-replace-words](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0648-replace-words) |
+| [0729-my-calendar-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0731-my-calendar-ii) |
 | [0809-expressive-words](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0809-expressive-words) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0633-sum-of-square-numbers) |
+| [0729-my-calendar-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0731-my-calendar-ii) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0729-my-calendar-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0731-my-calendar-ii) |
 | [1286-iterator-for-combination](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1286-iterator-for-combination) |
 | [1352-product-of-the-last-k-numbers](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
@@ -486,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0307-range-sum-query-mutable) |
+| [0729-my-calendar-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0731-my-calendar-ii) |
 ## Math
 |  |
@@ -679,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0731-my-calendar-ii) |
 | [2336-smallest-number-in-infinite-set](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2353-design-a-food-rating-system](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2353-design-a-food-rating-system) |
