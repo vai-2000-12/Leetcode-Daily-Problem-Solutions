@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3803-count-residue-prefixes](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3803-count-residue-prefixes) |
+| [3829-design-ride-sharing-system](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3829-design-ride-sharing-system) |
 | [3839-number-of-prefix-connected-groups](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3839-number-of-prefix-connected-groups) |
 | [3843-first-element-with-unique-frequency](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3843-first-element-with-unique-frequency) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3852-smallest-pair-with-different-frequencies) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2353-design-a-food-rating-system](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2353-design-a-food-rating-system) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [3242-design-neighbor-sum-service](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3242-design-neighbor-sum-service) |
+| [3829-design-ride-sharing-system](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3829-design-ride-sharing-system) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1352-product-of-the-last-k-numbers](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1656-design-an-ordered-stream](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/1656-design-an-ordered-stream) |
+| [3829-design-ride-sharing-system](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3829-design-ride-sharing-system) |
 ## Stack
 |  |
 | ------- |
@@ -632,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [3829-design-ride-sharing-system](https://github.com/vai-2000-12/Leetcode-Daily-Problem-Solutions/tree/master/3829-design-ride-sharing-system) |
 ## Monotonic Queue
 |  |
 | ------- |
